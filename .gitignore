@@ -1,0 +1,9 @@
+Hardware/History/
+Hardware/*.step
+Hardware/*.png
+Hardware/Project Logs for */
+Hardware/Project Outputs for */
+Hardware/*.PrjPcbStructure
+Hardware/__Previews/
+Hardware/*.pdf
+Hardware/*.OutJob
