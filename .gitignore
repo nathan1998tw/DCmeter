@@ -7,3 +7,4 @@ Hardware/*.PrjPcbStructure
 Hardware/__Previews/
 Hardware/*.pdf
 Hardware/*.OutJob
+Hardware/*.Annotation
